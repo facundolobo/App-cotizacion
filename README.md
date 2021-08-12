@@ -20,6 +20,6 @@ _Dí cómo será ese paso_
 
 *  Run app: ```npm start```
 
-### Detalles
+### Saludos
 
 _Muchas Gracias por visitar mi Repositorio_
